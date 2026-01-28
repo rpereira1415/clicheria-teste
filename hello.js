@@ -4,9 +4,5 @@ console.log('Alex Alterou')
 TextDecoderStream
 
 
-console.log('Nova Branch');
 
-
-if (a=a) {
-    console.log('Verdadeiro) 
-}
+nova brach criada
